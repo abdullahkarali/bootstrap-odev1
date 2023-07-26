@@ -1,0 +1,29 @@
+body{
+    background: #E9ECEF;
+}
+
+.jumbotron{
+    text-align: center;
+}
+
+.instrument{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+main{
+    margin-top: 25px;
+}
+
+main .container h1{
+    text-align: center;
+    color: red;
+    margin-bottom: 15px
+}
+
+main .container .row .card .card-text{
+    color: #9645ff;
+    font-weight: bold;
+}
